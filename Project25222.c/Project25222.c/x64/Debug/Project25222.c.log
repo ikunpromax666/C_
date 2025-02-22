@@ -1,3 +1,0 @@
-﻿  25222.c
-D:\code\c语言编程6.16\Project25222.c\Project25222.c\25222.c(14,17): warning C4013: “Swap”未定义；假设外部返回 int
-D:\code\c语言编程6.16\Project25222.c\Project25222.c\25222.c(23,6): error C2371: “Swap”: 重定义；不同的基类型
